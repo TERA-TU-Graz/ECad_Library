@@ -1,0 +1,92 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HCT1G125GW-Q100
+D buffer 3 State out package: TSSOP-5
+K TTL buffer 3State
+F http://www.farnell.com/datasheets/1870919.pdf
+$ENDCMP
+#
+$CMP 74HCT1G125GW-Q100_MU
+D buffer 3 State out package:TSSOP-5
+K TTL buffer 3State
+F http://www.farnell.com/datasheets/1870919.pdf
+$ENDCMP
+#
+$CMP 74VHC125MTCX_MU
+D Quad buffer 3 State out package: TSSOP14
+K TTL buffer 3State
+F https://www.fairchildsemi.com/datasheets/74/74VHC125.pdf
+$ENDCMP
+#
+$CMP ISO7241
+D quad-channel digital isolator with channel enable functionality
+K isolator spi
+F http://www.ti.com/lit/ds/symlink/iso7240cf-q1.pdf
+$ENDCMP
+#
+$CMP ISO7242
+D quad-channel digital isolator with channel enable functionality
+K isolator spi
+F http://www.ti.com/lit/ds/symlink/iso7240cf-q1.pdf
+$ENDCMP
+#
+$CMP MAX3379EEUD
+D Quad voltage level translator
+K translator spi
+F https://datasheets.maximintegrated.com/en/ds/MAX3372E-MAX3393E.pdf
+$ENDCMP
+#
+$CMP MAX3390EEUD
+D Quad voltage level translator
+K translator spi
+F https://datasheets.maximintegrated.com/en/ds/MAX3372E-MAX3393E.pdf
+$ENDCMP
+#
+$CMP NC7WZ16P6X
+D Dual high speed buffer
+K buffer
+F https://www.fairchildsemi.com/datasheets/NC/NC7WZ16.pdf
+$ENDCMP
+#
+$CMP PCA8C251
+D CAN Transceiver for 24V systems
+K CAN Transceiver
+F http://www.nxp.com/documents/data_sheet/PCA82C251.pdf
+$ENDCMP
+#
+$CMP SI8661AB-B-IS1
+D quad-channel digital isolator with channel enable functionality
+K isolator spi
+F http://www.ti.com/lit/ds/symlink/iso7240cf-q1.pdf
+$ENDCMP
+#
+$CMP SN65HVD230
+D 3V3 single supply can tranceiver with slope crtl and standby mode
+K CAN Transceiver
+F http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf
+$ENDCMP
+#
+$CMP SN65HVD231
+D 3V3 single supply can tranceiver with slope crtl and sleep mode
+K CAN Transceiver
+F http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf
+$ENDCMP
+#
+$CMP SN74HC138DR
+D Decoder 3 to 8 (active low outputs)
+K TTL DECOD DECOD8
+$ENDCMP
+#
+$CMP SN74HC21D
+D Dual And 4 inputs
+K TTL And4
+F http://www.ti.com/lit/ds/symlink/sn74hc21.pdf
+$ENDCMP
+#
+$CMP TLE7251VSJ
+D CAN Transceiver High Speed CAN with Bus Wake-up
+K CAN Transceiver
+F http://www.nxp.com/documents/data_sheet/PCA82C251.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ARM_JTAG_or_SW_Debug_Port_10pol
+D Standart ARM 10 pol JTAG/SW debug connector
+K connector jtag-dp sw-dp debug
+$ENDCMP
+#
+$CMP CAN_CON
+D Phoenix Contacts Connector
+K CAN Bus Connector
+$ENDCMP
+#
+$CMP CAN_CON_2pol
+D Phoenix Contacts Connector
+K CAN Bus Connector
+$ENDCMP
+#
+$CMP ConnHirose_DF17-30DX-0.5V
+D Connector, double row, 02x20
+K connector
+$ENDCMP
+#
+$CMP ConnHirose_DF17-40DX-0.5V
+D Connector, double row, 02x20
+K connector
+$ENDCMP
+#
+$CMP TERA_Debug_14pol
+D Standart ARM 10 pol JTAG/SW debug connector
+K connector jtag-dp sw-dp debug
+$ENDCMP
+#
+#End Doc Library

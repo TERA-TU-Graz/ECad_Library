@@ -1,0 +1,491 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:ft232rl
+LIBS:relais
+LIBS:Supply
+LIBS:tera_general
+LIBS:tera_switches
+LIBS:tera_logic
+LIBS:tera_4_layer -- STM32F4-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 5
+Title ""
+Date ""
+Rev ""
+Comp "TERA TU Graz"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 9800 1000 850  1550
+U 56F507DC
+F0 "CAN_connect" 60
+F1 "CAN_connect.sch" 60
+F2 "CAN1_RX" O L 9800 1300 60 
+F3 "CAN1_TX" I L 9800 1400 60 
+F4 "CAN1_RS(Mode)" I L 9800 1800 60 
+F5 "CAN2_RX" O L 9800 2000 60 
+F6 "CAN2_TX" I L 9800 2100 60 
+F7 "CAN2_RS(Mode)" I L 9800 2250 60 
+F8 "CAN_supply" I L 9800 1050 60 
+F9 "GND" I L 9800 2450 60 
+F10 "CAN1+" B L 9800 1550 60 
+F11 "CAN1-" B L 9800 1650 60 
+$EndSheet
+$Sheet
+S 1050 1000 650  700 
+U 56F5D14B
+F0 "supply" 60
+F1 "supply.sch" 60
+F2 "+12V_PWR" O R 1700 1100 60 
+F3 "+12V_CRTL" O R 1700 1200 60 
+F4 "GND" O R 1700 1600 60 
+F5 "+5V" O R 1700 1300 60 
+F6 "+3V3" O R 1700 1400 60 
+$EndSheet
+$Comp
+L HolyRoly_v2 U1
+U 4 1 56FD8C61
+P 1600 7000
+F 0 "U1" H 1550 7687 60  0000 C CNN
+F 1 "HolyRoly_v2" H 1550 7581 60  0000 C CNN
+F 2 "Boards_Tera:HolyRoly_v2" H 1400 7450 60  0001 C CNN
+F 3 "" H 1400 7450 60  0000 C CNN
+	4    1600 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L HolyRoly_v2 U1
+U 1 1 56FD8743
+P 4050 1900
+F 0 "U1" H 4050 2950 60  0000 L CNN
+F 1 "HolyRoly_v2" H 3850 2850 60  0000 L CNN
+F 2 "Boards_Tera:HolyRoly_v2" H 3850 2350 60  0001 C CNN
+F 3 "" H 3850 2350 60  0000 C CNN
+	1    4050 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L HolyRoly_v2 U1
+U 2 1 56FD8909
+P 5600 1900
+F 0 "U1" H 5600 2950 60  0000 L CNN
+F 1 "HolyRoly_v2" H 5400 2850 60  0000 L CNN
+F 2 "Boards_Tera:HolyRoly_v2" H 5400 2350 60  0001 C CNN
+F 3 "" H 5400 2350 60  0000 C CNN
+	2    5600 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L HolyRoly_v2 U1
+U 3 1 56FD8AA3
+P 6950 1900
+F 0 "U1" H 6950 2950 60  0000 L CNN
+F 1 "HolyRoly_v2" H 6750 2850 60  0000 L CNN
+F 2 "Boards_Tera:HolyRoly_v2" H 6750 2350 60  0001 C CNN
+F 3 "" H 6750 2350 60  0000 C CNN
+	3    6950 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L HolyRoly_v2 U1
+U 5 1 56FD8E1D
+P 8650 1950
+F 0 "U1" H 8600 1800 60  0000 L CNN
+F 1 "HolyRoly_v2" H 8450 2500 60  0000 L CNN
+F 2 "Boards_Tera:HolyRoly_v2" H 8450 2400 60  0001 C CNN
+F 3 "" H 8450 2400 60  0000 C CNN
+	5    8650 1950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L +12L #PWR01
+U 1 1 56FE9634
+P 1800 1050
+F 0 "#PWR01" H 1800 900 50  0001 C CNN
+F 1 "+12L" H 1818 1223 50  0000 C CNN
+F 2 "" H 1800 1050 50  0000 C CNN
+F 3 "" H 1800 1050 50  0000 C CNN
+	1    1800 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L +12V #PWR02
+U 1 1 56FEA5A8
+P 1950 1150
+F 0 "#PWR02" H 1950 1000 50  0001 C CNN
+F 1 "+12V" H 1968 1323 50  0000 C CNN
+F 2 "" H 1950 1150 50  0000 C CNN
+F 3 "" H 1950 1150 50  0000 C CNN
+	1    1950 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR03
+U 1 1 56FEB8F4
+P 2250 1350
+F 0 "#PWR03" H 2250 1200 50  0001 C CNN
+F 1 "+3.3V" H 2268 1523 50  0000 C CNN
+F 2 "" H 2250 1350 50  0000 C CNN
+F 3 "" H 2250 1350 50  0000 C CNN
+	1    2250 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR04
+U 1 1 56FEBA50
+P 2100 1250
+F 0 "#PWR04" H 2100 1100 50  0001 C CNN
+F 1 "+5V" H 2118 1423 50  0000 C CNN
+F 2 "" H 2100 1250 50  0000 C CNN
+F 3 "" H 2100 1250 50  0000 C CNN
+	1    2100 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR05
+U 1 1 56FEC261
+P 1900 1650
+F 0 "#PWR05" H 1900 1400 50  0001 C CNN
+F 1 "GND" H 1908 1477 50  0000 C CNN
+F 2 "" H 1900 1650 50  0000 C CNN
+F 3 "" H 1900 1650 50  0000 C CNN
+	1    1900 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR06
+U 1 1 56FF37FD
+P 2350 6850
+F 0 "#PWR06" H 2350 6700 50  0001 C CNN
+F 1 "+3.3V" H 2368 7023 50  0000 C CNN
+F 2 "" H 2350 6850 50  0000 C CNN
+F 3 "" H 2350 6850 50  0000 C CNN
+	1    2350 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR07
+U 1 1 56FFE918
+P 2350 7250
+F 0 "#PWR07" H 2350 7000 50  0001 C CNN
+F 1 "GND" H 2358 7077 50  0000 C CNN
+F 2 "" H 2350 7250 50  0000 C CNN
+F 3 "" H 2350 7250 50  0000 C CNN
+	1    2350 7250
+	1    0    0    -1  
+$EndComp
+Text Label 4450 1400 0    39   ~ 0
+Interlock_OK
+Text Label 4450 1500 0    39   ~ 0
+CS_B0
+Text Label 4450 1600 0    39   ~ 0
+SCLK
+Text Label 4450 1700 0    39   ~ 0
+MISO
+Text Label 4450 1800 0    39   ~ 0
+MOSI
+Text Label 4450 1900 0    39   ~ 0
+SuperCharger_ON
+Text Label 4450 2000 0    39   ~ 0
+SuperCharger_Fault
+Text Label 6000 2500 0    39   ~ 0
+FAN_PWM
+Text Label 4450 2200 0    39   ~ 0
+CAN1_RXD
+Text Label 4450 2300 0    39   ~ 0
+CAN1_TXD
+Text Label 4450 2400 0    39   ~ 0
+JTMS
+Text Label 4450 2500 0    39   ~ 0
+JTCK
+Text Label 4450 2600 0    39   ~ 0
+JTDI
+Text Label 6000 1100 0    39   ~ 0
+SPI_CS
+Text Label 6000 1200 0    39   ~ 0
+Main_On
+Text Label 6000 1300 0    39   ~ 0
+Main_Fault
+Text Label 6000 1400 0    39   ~ 0
+JTDO
+Text Label 6000 1500 0    39   ~ 0
+JTNRST
+NoConn ~ 6000 1600
+Text Label 6000 1700 0    39   ~ 0
+Interlock_On1
+Text Label 6000 1800 0    39   ~ 0
+Interlock_On2
+Text Label 6000 2100 0    39   ~ 0
+NALERT
+Text Label 6000 2300 0    39   ~ 0
+CAN2_RXD
+Text Label 6000 2400 0    39   ~ 0
+CAN2_TXD
+Text Label 6000 2600 0    39   ~ 0
+CS_B1
+Text Label 7350 1100 0    39   ~ 0
+LEM1
+Text Label 7350 1200 0    39   ~ 0
+LEM2
+Text Label 7350 1300 0    39   ~ 0
+LEM3
+Text Label 7350 1700 0    39   ~ 0
+CS_B2
+Text Label 7350 1800 0    39   ~ 0
+NFAULT
+Text Label 7350 1900 0    39   ~ 0
+Precharge_Fault
+Text Label 7350 2100 0    39   ~ 0
+USART_TXD
+Text Label 7350 2200 0    39   ~ 0
+USART_RXD
+NoConn ~ 7350 2300
+Text Label 6000 2200 0    39   ~ 0
+FAN_Fault
+NoConn ~ 900  6900
+NoConn ~ 900  7000
+NoConn ~ 900  7100
+NoConn ~ 900  7200
+NoConn ~ 9050 1950
+Text Label 9800 1300 2    39   ~ 0
+CAN1_RXD
+Text Label 9800 1400 2    39   ~ 0
+CAN1_TXD
+Text Label 9800 2000 2    39   ~ 0
+CAN2_RXD
+Text Label 9800 2100 2    39   ~ 0
+CAN2_TXD
+$Comp
+L +3.3V #PWR08
+U 1 1 570907E5
+P 9650 1000
+F 0 "#PWR08" H 9650 850 50  0001 C CNN
+F 1 "+3.3V" H 9668 1173 50  0000 C CNN
+F 2 "" H 9650 1000 50  0000 C CNN
+F 3 "" H 9650 1000 50  0000 C CNN
+	1    9650 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR09
+U 1 1 5709711B
+P 9650 2500
+F 0 "#PWR09" H 9650 2250 50  0001 C CNN
+F 1 "GND" H 9658 2327 50  0000 C CNN
+F 2 "" H 9650 2500 50  0000 C CNN
+F 3 "" H 9650 2500 50  0000 C CNN
+	1    9650 2500
+	1    0    0    -1  
+$EndComp
+Text Label 6000 1900 0    39   ~ 0
+CAN1_RS
+Text Label 6000 2000 0    39   ~ 0
+CAN2_RS
+Text Label 9800 1800 2    39   ~ 0
+CAN1_RS
+$Comp
+L CONN_02X05 P3
+U 1 1 571887F2
+P 4350 7100
+F 0 "P3" H 4350 7515 50  0000 C CNN
+F 1 "TERA_DEBUG" H 4350 7424 50  0000 C CNN
+F 2 "tera_general:TERA_DEBUG" H 4350 5900 50  0001 C CNN
+F 3 "" H 4350 5900 50  0000 C CNN
+	1    4350 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR010
+U 1 1 57192B31
+P 4750 6800
+F 0 "#PWR010" H 4750 6650 50  0001 C CNN
+F 1 "+3.3V" H 4768 6973 50  0000 C CNN
+F 2 "" H 4750 6800 50  0000 C CNN
+F 3 "" H 4750 6800 50  0000 C CNN
+	1    4750 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR011
+U 1 1 571945AF
+P 3950 6900
+F 0 "#PWR011" H 3950 6650 50  0001 C CNN
+F 1 "GND" V 3958 6772 50  0000 R CNN
+F 2 "" H 3950 6900 50  0000 C CNN
+F 3 "" H 3950 6900 50  0000 C CNN
+	1    3950 6900
+	0    1    1    0   
+$EndComp
+Text Label 4100 7000 2    39   ~ 0
+JTMS
+Text Label 4100 7100 2    39   ~ 0
+JTCK
+Text Label 4600 7100 0    39   ~ 0
+JTDI
+Text Label 4100 7200 2    39   ~ 0
+JTDO
+Text Label 4100 7300 2    39   ~ 0
+USART_TXD
+Text Label 4600 7300 0    39   ~ 0
+USART_RXD
+Text Label 4600 7200 0    39   ~ 0
+JTNRST
+Text Label 900  6600 2    39   ~ 0
+NRST
+Text Label 4600 7000 0    39   ~ 0
+NRST
+$Comp
+L Jumper_NO_Small JP2
+U 1 1 572BA8CE
+P 9400 1800
+F 0 "JP2" H 9400 1850 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 9410 1740 50  0001 C CNN
+F 2 "tera_general:SOLDERJUMPER_2" H 9400 1800 50  0001 C CNN
+F 3 "" H 9400 1800 50  0000 C CNN
+	1    9400 1800
+	1    0    0    -1  
+$EndComp
+Text Label 9800 2250 2    39   ~ 0
+CAN2_RS
+$Comp
+L Jumper_NO_Small JP3
+U 1 1 572BBBB8
+P 9400 2250
+F 0 "JP3" H 9400 2300 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 9410 2190 50  0001 C CNN
+F 2 "tera_general:SOLDERJUMPER_2" H 9400 2250 50  0001 C CNN
+F 3 "" H 9400 2250 50  0000 C CNN
+	1    9400 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR012
+U 1 1 572C296C
+P 9250 2300
+F 0 "#PWR012" H 9250 2050 50  0001 C CNN
+F 1 "GND" H 9258 2127 50  0000 C CNN
+F 2 "" H 9250 2300 50  0000 C CNN
+F 3 "" H 9250 2300 50  0000 C CNN
+	1    9250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR013
+U 1 1 572C2AE5
+P 9250 1850
+F 0 "#PWR013" H 9250 1600 50  0001 C CNN
+F 1 "GND" H 9258 1677 50  0000 C CNN
+F 2 "" H 9250 1850 50  0000 C CNN
+F 3 "" H 9250 1850 50  0000 C CNN
+	1    9250 1850
+	1    0    0    -1  
+$EndComp
+Text Label 7350 1500 0    39   ~ 0
+TS1
+Text Label 7350 1600 0    39   ~ 0
+TS2
+Text Label 4450 1200 0    39   ~ 0
+TS3
+Text Label 4450 1300 0    39   ~ 0
+TS4
+Wire Wire Line
+	1700 1600 1900 1600
+Wire Wire Line
+	1900 1600 1900 1650
+Wire Wire Line
+	1700 1400 2250 1400
+Wire Wire Line
+	2250 1400 2250 1350
+Wire Wire Line
+	1700 1300 2100 1300
+Wire Wire Line
+	2100 1300 2100 1250
+Wire Wire Line
+	1700 1200 1950 1200
+Wire Wire Line
+	1950 1200 1950 1150
+Wire Wire Line
+	1700 1100 1800 1100
+Wire Wire Line
+	1800 1100 1800 1050
+Wire Wire Line
+	2350 6850 2350 7000
+Wire Wire Line
+	2350 7000 2200 7000
+Wire Wire Line
+	2200 6900 2350 6900
+Connection ~ 2350 6900
+Wire Wire Line
+	2350 7100 2350 7250
+Wire Wire Line
+	2350 7200 2200 7200
+Wire Wire Line
+	2350 7100 2200 7100
+Connection ~ 2350 7200
+Wire Wire Line
+	9800 1550 9050 1550
+Wire Wire Line
+	9800 1650 9050 1650
+Wire Wire Line
+	9650 1000 9650 1050
+Wire Wire Line
+	9650 1050 9800 1050
+Wire Wire Line
+	9650 2500 9650 2450
+Wire Wire Line
+	9650 2450 9800 2450
+Wire Wire Line
+	3950 6900 4100 6900
+Wire Wire Line
+	4600 6900 4750 6900
+Wire Wire Line
+	4750 6900 4750 6800
+Wire Wire Line
+	9500 1800 9800 1800
+Wire Wire Line
+	9300 1800 9250 1800
+Wire Wire Line
+	9500 2250 9800 2250
+Wire Wire Line
+	9300 2250 9250 2250
+Wire Wire Line
+	9250 1800 9250 1850
+Wire Wire Line
+	9250 2250 9250 2300
+Text Label 7350 1400 0    39   ~ 0
+~TMP_REF_SHDN
+$EndSCHEMATC

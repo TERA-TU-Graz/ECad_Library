@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PhotoMOSFET_1xNC
+D Optical solid state relay normally closed
+K Solid_state_relay
+$ENDCMP
+#
+$CMP PhotoMOSFET_1xNO
+D Optical solid state relay
+K Solid_state_relay
+$ENDCMP
+#
+#End Doc Library

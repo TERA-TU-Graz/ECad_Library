@@ -1,0 +1,561 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM4132
+D Precision Low Dropout Voltage Reference
+K Reference
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132A-1.8
+D Precision Low Dropout Voltage Reference (1.8V; 0.05%)
+K Reference 1.8V 0.05%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132A-2
+D Precision Low Dropout Voltage Reference (2.048V; 0.05%)
+K Reference 2.048V 0.05%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132A-2.5
+D Precision Low Dropout Voltage Reference (2.5V; 0.05%)
+K Reference 2.5V 0.05%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132A-3
+D Precision Low Dropout Voltage Reference (3V; 0.05%)
+K Reference 3V 0.05%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132A-3.3
+D Precision Low Dropout Voltage Reference (3.3V; 0.05%)
+K Reference 3.3V 0.05%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132A-4.1
+D Precision Low Dropout Voltage Reference (4.096V; 0.05%)
+K Reference 4.096V 0.05%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132B-1.8
+D Precision Low Dropout Voltage Reference (1.8V; 0.1%)
+K Reference 1.8V 0.1%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132B-2
+D Precision Low Dropout Voltage Reference (2.048V; 0.1%)
+K Reference 2.048V 0.1%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132B-2.5
+D Precision Low Dropout Voltage Reference (2.5V; 0.1%)
+K Reference 2.5V 0.1%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132B-3
+D Precision Low Dropout Voltage Reference (3V; 0.1%)
+K Reference 3V 0.1%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132B-3.3
+D Precision Low Dropout Voltage Reference (3.3V; 0.1%)
+K Reference 3.3V 0.1%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132B-4.1
+D Precision Low Dropout Voltage Reference (4.096V; 0.1%)
+K Reference 4.096V 0.1%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132C-1.8
+D Precision Low Dropout Voltage Reference (1.8V; 0.2%)
+K Reference 1.8V 0.2%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132C-2
+D Precision Low Dropout Voltage Reference (2.048V; 0.2%)
+K Reference 2.048V 0.2%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132C-2.5
+D Precision Low Dropout Voltage Reference (2.5V; 0.2%)
+K Reference 2.5V 0.2%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132C-3
+D Precision Low Dropout Voltage Reference (3V; 0.2%)
+K Reference 3V 0.2%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132C-3.3
+D Precision Low Dropout Voltage Reference (3.3V; 0.2%)
+K Reference 3.3V 0.2%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132C-4.1
+D Precision Low Dropout Voltage Reference (4.096V; 0.2%)
+K Reference 4.096V 0.2%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132D-1.8
+D Precision Low Dropout Voltage Reference (1.8V; 0.4%)
+K Reference 1.8V 0.4%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132D-2
+D Precision Low Dropout Voltage Reference (2.048V; 0.4%)
+K Reference 2.048V 0.4%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132D-2.5
+D Precision Low Dropout Voltage Reference (2.5V; 0.4%)
+K Reference 2.5V 0.4%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132D-3
+D Precision Low Dropout Voltage Reference (3V; 0.4%)
+K Reference 3V 0.4%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132D-3.3
+D Precision Low Dropout Voltage Reference (3.3V; 0.4%)
+K Reference 3.3V 0.4%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132D-4.1
+D Precision Low Dropout Voltage Reference (4.096V; 0.4%)
+K Reference 4.096V 0.4%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132E-1.8
+D Precision Low Dropout Voltage Reference (1.8V; 0.5%)
+K Reference 1.8V 0.5%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132E-2
+D Precision Low Dropout Voltage Reference (2.048V; 0.5%)
+K Reference 2.048V 0.5%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132E-2.5
+D Precision Low Dropout Voltage Reference (2.5V; 0.5%)
+K Reference 2.5V 0.5%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132E-3
+D Precision Low Dropout Voltage Reference (3V; 0.5%)
+K Reference 3V 0.5%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132E-3.3
+D Precision Low Dropout Voltage Reference (3.3V; 0.5%)
+K Reference 3.3V 0.5%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LM4132E-4.1
+D Precision Low Dropout Voltage Reference (4.096V; 0.5%)
+K Reference 4.096V 0.5%
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+$CMP LT1461
+D Precision Low Dropout Voltage Reference
+K Reference
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461ACS8
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.04% 3ppm/°C
+K Reference
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461ACS8-2.5
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.04% 3ppm/°C 2.5V
+K Reference 2.5V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461ACS8-3
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.04% 3ppm/°C 3.0V
+K Reference 3.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461ACS8-3.3
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.04% 3ppm/°C 3.3V
+K Reference 3.3V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461ACS8-4
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.04% 3ppm/°C 4.096V
+K Reference 4.096V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461ACS8-5
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.04% 3ppm/°C 5.0V
+K Reference 5.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461AIS8
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.04% 3ppm/°C
+K Reference
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461AIS8-2.5
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.04% 3ppm/°C 2.5V
+K Reference 2.5V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461AIS8-3
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.04% 3ppm/°C 3.0V
+K Reference 3.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461AIS8-3.3
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.04% 3ppm/°C 3.3V
+K Reference 3.3V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461AIS8-4
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.04% 3ppm/°C 4.096V
+K Reference 4.096V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461AIS8-5
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.04% 3ppm/°C 5.0V
+K Reference 5.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461BCS8
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.06% 7ppm/°C
+K Reference
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461BCS8-2.5
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.06% 7ppm/°C 2.5V
+K Reference 2.5V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461BCS8-3
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.06% 7ppm/°C 3.0V
+K Reference 3.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461BCS8-3.3
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.06% 7ppm/°C 3.3V
+K Reference 3.3V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461BCS8-4
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.06% 7ppm/°C 4.096V
+K Reference 4.096V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461BCS8-5
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.06% 7ppm/°C 5.0V
+K Reference 5.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461BIS8
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.06% 7ppm/°C
+K Reference
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461BIS8-2.5
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.06% 7ppm/°C 2.5V
+K Reference 2.5V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461BIS8-3
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.06% 7ppm/°C 3.0V
+K Reference 3.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461BIS8-3.3
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.06% 7ppm/°C 3.3V
+K Reference 3.3V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461BIS8-4
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.06% 7ppm/°C 4.096V
+K Reference 4.096V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461BIS8-5
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.06% 7ppm/°C 5.0V
+K Reference 5.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461CCS8
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.08% 12ppm/°C
+K Reference
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461CCS8-2.5
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.08% 12ppm/°C 2.5V
+K Reference 2.5V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461CCS8-3
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.08% 12ppm/°C 3.0V
+K Reference 3.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461CCS8-3.3
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.08% 12ppm/°C 3.3V
+K Reference 3.3V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461CCS8-4
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.08% 12ppm/°C 4.096V
+K Reference 4.096V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461CCS8-5
+D Precision Low Dropout Voltage Reference 0°C...70°C 0.08% 12ppm/°C 5.0V
+K Reference 5.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461CIS8
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.08% 12ppm/°C
+K Reference
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461CIS8-2.5
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.08% 12ppm/°C 2.5V
+K Reference 2.5V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461CIS8-3
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.08% 12ppm/°C 3.0V
+K Reference 3.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461CIS8-3.3
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.08% 12ppm/°C 3.3V
+K Reference 3.3V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461CIS8-4
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.08% 12ppm/°C 4.096V
+K Reference 4.096V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461CIS8-5
+D Precision Low Dropout Voltage Reference -40°C...85°C 0.08% 12ppm/°C 5.0V
+K Reference 5.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461DHS8
+D Precision Low Dropout Voltage Reference -40°C...125°C 0.15% 20ppm/°C
+K Reference
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461DHS8-2.5
+D Precision Low Dropout Voltage Reference -40°C...125°C 0.15% 20ppm/°C 2.5V
+K Reference 2.5V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461DHS8-3
+D Precision Low Dropout Voltage Reference -40°C...125°C 0.15% 20ppm/°C 3.0V
+K Reference 3.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461DHS8-3.3
+D Precision Low Dropout Voltage Reference -40°C...125°C 0.15% 20ppm/°C 3.3V
+K Reference 3.3V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461DHS8-4
+D Precision Low Dropout Voltage Reference -40°C...125°C 0.15% 20ppm/°C 4.096V
+K Reference 4.096V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP LT1461DHS8-5
+D Precision Low Dropout Voltage Reference -40°C...125°C 0.15% 20ppm/°C 5.0V
+K Reference 5.0V
+F http://cds.linear.com/docs/en/datasheet/1461fb.pdf
+$ENDCMP
+#
+$CMP Muarta_LME0505SC
+D Muarta Isolated DC/DC converter 250mW (50mA), Vin = 5V, Vout = 5V , minimum load 10% (5mA), SIP package
+K DcDc_Converter LME Series
+F http://power.murata.com/data/power/ncl/kdc_lme.pdf
+$ENDCMP
+#
+$CMP Muarta_LME0509SC
+D Muarta Isolated DC/DC converter 250mW (28mA), Vin = 5V, Vout = 9V , minimum load 10% (2.8mA), SIP package
+K DcDc_Converter LME Series
+F http://power.murata.com/data/power/ncl/kdc_lme.pdf
+$ENDCMP
+#
+$CMP Muarta_LME0512SC
+D Muarta Isolated DC/DC converter 250mW (21mA), Vin = 5V, Vout = 12V , minimum load 10% (2.1mA), SIP package
+K DcDc_Converter LME Series
+F http://power.murata.com/data/power/ncl/kdc_lme.pdf
+$ENDCMP
+#
+$CMP Muarta_LME0515SC
+D Muarta Isolated DC/DC converter 250mW (16mA), Vin = 5V, Vout = 15V , minimum load 10% (1.6mA), SIP package
+K DcDc_Converter LME Series
+F http://power.murata.com/data/power/ncl/kdc_lme.pdf
+$ENDCMP
+#
+$CMP Muarta_LME1205SC
+D Muarta Isolated DC/DC converter 250mW (50mA), Vin = 12V, Vout = 5V , minimum load 10% (5mA), SIP package
+K DcDc_Converter LME Series
+F http://power.murata.com/data/power/ncl/kdc_lme.pdf
+$ENDCMP
+#
+$CMP Muarta_LME1209SC
+D Muarta Isolated DC/DC converter 250mW (28mA), Vin = 12V, Vout = 9V , minimum load 10% (2.8mA), SIP package
+K DcDc_Converter LME Series
+F http://power.murata.com/data/power/ncl/kdc_lme.pdf
+$ENDCMP
+#
+$CMP Muarta_LME1212SC
+D Muarta Isolated DC/DC converter 250mW (21mA), Vin = 12V, Vout = 12V , minimum load 10% (2.1mA), SIP package
+K DcDc_Converter LME Series
+F http://power.murata.com/data/power/ncl/kdc_lme.pdf
+$ENDCMP
+#
+$CMP Muarta_LME1215SC
+D Muarta Isolated DC/DC converter 250mW (16mA), Vin = 12V, Vout = 15V , minimum load 10% (1.6mA), SIP package
+K DcDc_Converter LME Series
+F http://power.murata.com/data/power/ncl/kdc_lme.pdf
+$ENDCMP
+#
+$CMP Muarta_LMExxyySC
+D Muarta Isolated DC/DC converter 250mW, minimum load 10%, SIP package
+K DcDc_Converter LME Series
+F http://power.murata.com/data/power/ncl/kdc_lme.pdf
+$ENDCMP
+#
+$CMP PSSI2021SAY
+D Constant current source in SOT353 package
+K constant current source
+F http://www.nxp.com/documents/data_sheet/PSSI2021SAY.pdf
+$ENDCMP
+#
+$CMP PSSI2021SAY-detailed
+D Current Source
+K PSSI2021SAY
+F http://www.nxp.com/documents/data_sheet/PSSI2021SAY.pdf
+$ENDCMP
+#
+$CMP TEN_30-xxxx_dual_output
+D TRACO POWER TEN 30 Series DC/DC Converters
+K DcDc_Converter TMR_30_Series
+F http://assets.tracopower.com/20161207163152/TEN30/documents/ten30-datasheet.pdf
+$ENDCMP
+#
+$CMP TEN_30-xxxx_single_output
+D TRACO POWER TMR 30 Series DC/DC Converters
+K DcDc_Converter TMR_30_Series
+F http://assets.tracopower.com/20161207163152/TEN30/documents/ten30-datasheet.pdf
+$ENDCMP
+#
+$CMP THD_12-xxxx_dual_output
+D TRACO POWER TMR 12 Series DC/DC Converters
+K DcDc_Converter TMR_12_Series
+F http://assets.tracopower.com/20161207163152/THD12/documents/thd12-datasheet.pdf
+$ENDCMP
+#
+$CMP THD_12-xxxx_single_output
+D TRACO POWER TMR 12 Series DC/DC Converters
+K DcDc_Converter TMR_12_Series
+F http://assets.tracopower.com/20161207163152/THD12/documents/thd12-datasheet.pdf
+$ENDCMP
+#
+$CMP TMR_1-XX1X
+D TRACO POWER TMR 1 Series DC/DC Converters
+K DcDc_Converter TMR_1_Series
+F http://assets.tracopower.com/20160304084254/TMR1/documents/tmr1-datasheet.pdf
+$ENDCMP
+#
+$CMP TMR_1-XX1XSM
+D TRACO POWER TMR 1 Series DC/DC Converters
+K DcDc_Converter TMR_1_Series
+F http://assets.tracopower.com/20160304084254/TMR1/documents/tmr1-datasheet.pdf
+$ENDCMP
+#
+$CMP TMR_1-XX2X
+D TRACO POWER TMR 1 Series DC/DC Converters
+K DcDc_Converter TMR_1_Series
+F http://assets.tracopower.com/20160304084254/TMR1/documents/tmr1-datasheet.pdf
+$ENDCMP
+#
+$CMP TMR_1-XX2XSM
+D TRACO POWER TMR 1 Series DC/DC Converters
+K DcDc_Converter TMR_1_Series
+F http://assets.tracopower.com/20160304084254/TMR1/documents/tmr1-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

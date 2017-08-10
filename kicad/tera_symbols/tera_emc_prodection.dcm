@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SM2T6V8A_tvs_5v0
+D TVS 5V: leakage at 5V: 50uA, Vbr>=6.4V@10mA, Vcl<9.2V@19.6A
+K TVS ESP
+F http://www.farnell.com/datasheets/1670953.pdf
+$ENDCMP
+#
+$CMP uClamp3310D_tvs_3v3
+D TVS 3v3: leakage @3v3:0.5uA, Vsb>2.8@50mA, Vpt>3.5V@2uA, Vcl<4.5@1A
+K TVS ESP
+F http://www.farnell.com/datasheets/20470.pdf
+$ENDCMP
+#
+#End Doc Library

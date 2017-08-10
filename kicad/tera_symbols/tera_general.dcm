@@ -1,0 +1,220 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 6EDL04N02PR
+D 3-Phase half bridge driver
+F http://www.infineon.com/dgdl/Infineon-6EDL04X0XXX-DS-v02_06-EN.pdf?fileId=db3a304336797ff901367c18c18445af
+$ENDCMP
+#
+$CMP ACS712
+D Linear Current Sensor IC
+F https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf
+$ENDCMP
+#
+$CMP AD8541
+D CMOS Rail-to-Rail General-Purpose Amplifier
+K AmpliOp
+F http://docs-europe.electrocomponents.com/webdocs/10d8/0900766b810d8b2d.pdf
+$ENDCMP
+#
+$CMP AD8544
+D CMOS Rail-to-Rail General-Purpose Amplifier
+K AmpliOp
+F http://docs-europe.electrocomponents.com/webdocs/10d8/0900766b810d8b2d.pdf
+$ENDCMP
+#
+$CMP BSC016N06NS
+D 60V Vds, N-Channel MOSFET, PG-TDSON-8
+K N-Channel MOSFET
+F http://www.infineon.com/dgdl/Infineon-BSC016N06NS-DS-v02_01-en.pdf?fileId=db3a3043353fdc160135532b353c483c
+$ENDCMP
+#
+$CMP BSL308C
+D 30V Vds, 2.3A Id, Complementary P+N channel , TSOP6, AEC Q101
+K Dual Complementary N-Channel P-Channel MOSFET
+F http://www.infineon.com/dgdl/Infineon-BSL308C-DS-v02_01-en.pdf?fileId=db3a30431ff98815012060ff862e6193
+$ENDCMP
+#
+$CMP BSL806N
+D 20V Vds, Dual N-Channel MOSFET, TSOP-6, AEC Q101
+K Dual N-Channel MOSFET
+F http://www.infineon.com/dgdl/Infineon-BSL806N-DS-v02_03-en.pdf?fileId=db3a30431b0626df011b128dcbe37bb1
+$ENDCMP
+#
+$CMP BSS205N
+D 20V Vds, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET
+F http://www.infineon.com/dgdl/Infineon-BSS205N-DS-v02_04-en.pdf?fileId=db3a304330f686060131091244950062
+$ENDCMP
+#
+$CMP BSS306N
+D 30V Vds, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET
+F http://www.infineon.com/dgdl/Infineon-BSS306N-DS-v02_03-en.pdf?fileId=db3a304330f686060130ff4c1f867ef5
+$ENDCMP
+#
+$CMP BTS716G
+D Smart Quad Channel High Side Powertrain Switch (140mOhm)
+K High_Side_Switch Power
+F http://www.infineon.com/dgdl/Infineon-BTS716G-DS-v01_00-en.pdf?fileId=db3a304316f112290116f298181a7257
+$ENDCMP
+#
+$CMP BTS716GB
+D Smart Quad Channel High Side Powertrain Switch (140mOhm)
+K High_Side_Switch Power
+F http://www.infineon.com/dgdl/Infineon-BTS716GB-DS-v01_00-en.pdf?fileId=db3a30431c48a312011c4c2a11d90028
+$ENDCMP
+#
+$CMP BTS724G
+D Smart Quad Channel High Side Powertrain Switch (90mOhm)
+K High_Side_Switch Power
+F http://www.infineon.com/dgdl/Infineon-BTS724G-DS-v01_00-en.pdf?fileId=db3a304316f112290116f299e245725c
+$ENDCMP
+#
+$CMP CAN_CON
+D Phoenix Contacts Connector
+K CAN Bus Connector
+$ENDCMP
+#
+$CMP CM_CHOKE
+D Common Mode Choke
+K common mode choke
+F ../docs/ACT45B_Common_Mode_Choke.pdf
+$ENDCMP
+#
+$CMP DCDC_MultiOut_v0
+F Infineon-TLE7368-DS-v02_01-en-1.pdf
+$ENDCMP
+#
+$CMP DCDC_Stepdown_v3
+D DCDC converter designed by M. Pumberger at Tera TU Graz. Voltage output depends on the mounted IC.
+K DCDC converter Tera Stepdown
+$ENDCMP
+#
+$CMP DCDC_Stepdown_v6
+D DCDC converter designed by M. Pumberger at Tera TU Graz. Voltage output depends on the mounted IC.
+K DCDC converter Tera Stepdown
+$ENDCMP
+#
+$CMP HO_25-NP/SP33
+D LEM HO 8/10/25-P/SP33 Current Hall sensor
+K LEM, Current, Hall
+F http://www.lem.com/docs/products/ho-np_sp33-1000_series.pdf
+$ENDCMP
+#
+$CMP HolyRoly_v2
+D Microcontroller from STMicroelectronics
+K STM32
+F STM32F405xx_STM32F407xx-datasheet.pdf
+$ENDCMP
+#
+$CMP IPD90P04P4-05
+D P-Channel Power-FET, AEC Q101, TO-252, -40V, -90A, 4.7mOhm
+K P-Channel MOSFET Infineon
+F http://www.infineon.com/dgdl/Infineon-IPD90P04P4_05-DS-v01_00-en.pdf?fileId=db3a304329a0f6ee0129dbba2b4d5c79
+$ENDCMP
+#
+$CMP IRLML2246TRPBF-1
+D P-Channel Power-FET, sot-23, -20V, -2.6A, 90mOhm
+K P-Channel MOSFET Infineon
+F http://www.infineon.com/dgdl/irlml2246pbf-1.pdf?fileId=5546d462533600a401535664d0b425f4
+$ENDCMP
+#
+$CMP ITS5215
+D Smart Dual Channel High Side Powertrain Switch (90mOhm)
+K High_Side_Switch Power
+F http://www.infineon.com/dgdl/Infineon-ITS5215L-DS-v01_01-en.pdf?fileId=db3a304412b407950112b428dba73e98
+$ENDCMP
+#
+$CMP JUMPER3_NO
+D Jumper 3-way normally open
+K Jumper 3-way normally open
+$ENDCMP
+#
+$CMP LMV341
+D Low Power, general purpose Op Amp, SC-70-6 package
+K op amp amplifier operational 
+F http://www.ti.com/lit/ds/symlink/lmv601.pdf
+$ENDCMP
+#
+$CMP LMV342
+D Dual, Low Power, general purpose Op Amp
+K op amp amplifier operational 
+F http://www.farnell.com/datasheets/90091.pdf
+$ENDCMP
+#
+$CMP R_Heat
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP SI8233BB
+D Isolated high-side/low-side driver
+F https://www.silabs.com/Support%20Documents/TechnicalDocs/Si823x.pdf
+$ENDCMP
+#
+$CMP STM32f4_board_v3-0
+D Microcontroller from STMicroelectronics
+K STM32
+F STM32F405xx_STM32F407xx-datasheet.pdf
+$ENDCMP
+#
+$CMP STM32f4_board_v3-1
+D Microcontroller from STMicroelectronics
+K STM32
+F STM32F405xx_STM32F407xx-datasheet.pdf
+$ENDCMP
+#
+$CMP SUPPRESSOR
+D CAN Bus Protector Suppressor
+K Suppressor Can Bus Protector
+F ../docs/SZ-NUP2105L_CAN_Bus_Protector.pdf
+$ENDCMP
+#
+$CMP Switch_DPST
+D Double Pole Single Throw (DPST) Switch
+K switch
+$ENDCMP
+#
+$CMP TI-bq76pl536
+D Stackable 3 to 6 Series Cell Lithium-Ion Battery Monitor and Secondary Protection IC for EV and HEV Applications
+K Battery_Monitor Protector
+F http://www.ti.com/lit/ds/symlink/bq76pl536a-q1.pdf
+$ENDCMP
+#
+$CMP TI-bq76pl536-multiunit
+D Stackable 3 to 6 Series Cell Lithium-Ion Battery Monitor and Secondary Protection IC for EV and HEV Applications
+K Battery_Monitor Protector
+F http://www.ti.com/lit/ds/symlink/bq76pl536a-q1.pdf
+$ENDCMP
+#
+$CMP TLE4207G
+D Dual-Half-Bridge Driver
+K DHB Dual-Half-Bridge Half-Bridge Power
+F http://www.infineon.com/dgdl/Infineon-TLE4207G-DS-v01_01-en.pdf?fileId=db3a30431c48a312011c4b7917e47fd0
+$ENDCMP
+#
+$CMP TLE7368E
+D DCDC converter with multiple outputs
+K DCDC converter, Multiple outputs
+F /home/dave/Documents/tera/TeraHW/docs/Infineon-TLE7368-DS-v02_01-en-1.pdf
+$ENDCMP
+#
+$CMP TLE8102SG
+D Smart Dual Channel Powertrain Switch 2x8A (max 360mOhm)
+K Low_Side_Switch Power
+F http://www.infineon.com/dgdl/Infineon-TLE8102SG-DS-v01_05-en.pdf?fileId=db3a304319c6f18c0119c8384bf90042
+$ENDCMP
+#
+$CMP TLE8104E
+D Smart Quad Channel Powertrain Switch 4x3A (In=1A, Ilim=3A, Ron=320mOhm)
+K Low_Side_Switch Power
+F http://www.infineon.com/dgdl/Infineon-TLE8104E-DS-v01_04-en.pdf?fileId=db3a304318f3fe2901190401cfda7f25
+$ENDCMP
+#
+$CMP TLF1963TB
+D 1500 mA Low Dropout Voltage Regulator, Adjustable 1.21V < V_Q < (Vin-340mV) Output, Input 2.5V-20V, TO263
+K 1500mA LDO Regulator Adjustable Positive
+F http://www.infineon.com/dgdl/Infineon-TLF1963-DS-v01_00-en.pdf?fileId=db3a30433afc7e3e013b45e177951318
+$ENDCMP
+#
+#End Doc Library

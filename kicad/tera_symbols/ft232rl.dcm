@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT232RL
+D FT232 USB to UART
+K FT232 USB UART
+F http://www.farnell.com/datasheets/2007793.pdf
+$ENDCMP
+#
+#End Doc Library

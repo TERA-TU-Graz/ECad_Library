@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS711KLCTR-12AB
+D Linear Current Sensor IC
+F https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf
+$ENDCMP
+#
+$CMP ACS711KLCTR-25AB
+D Linear Current Sensor IC
+F https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf
+$ENDCMP
+#
+$CMP ACS712ELCTR-05B-T
+D Linear Current Sensor IC
+F https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf
+$ENDCMP
+#
+$CMP ACS712ELCTR-20A-T
+D Linear Current Sensor IC
+F https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf
+$ENDCMP
+#
+$CMP ACS713ELCTR-20A-T
+D Linear Current Sensor IC
+F https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf
+$ENDCMP
+#
+$CMP ACS722LLCTR-20AB-T
+D Linear Current Sensor IC
+F https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf
+$ENDCMP
+#
+$CMP ACS7xx
+D Linear Current Sensor IC
+F https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf
+$ENDCMP
+#
+#End Doc Library
