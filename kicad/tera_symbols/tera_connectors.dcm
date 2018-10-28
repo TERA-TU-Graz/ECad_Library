@@ -25,6 +25,12 @@ D Connector, double row, 02x20
 K connector
 $ENDCMP
 #
+$CMP Conn_Segger_JTAG_SWD_20
+D Standard IDC20 Male Connector, ARM legacy JTAG and SWD interface
+K IDC20 Male Connector ARM JTAG SWD
+F http://infocenter.arm.com/help/topic/com.arm.doc.dui0499b/DUI0499B_system_design_reference.pdf
+$ENDCMP
+#
 $CMP TERA_Debug_14pol
 D Standart ARM 10 pol JTAG/SW debug connector
 K connector jtag-dp sw-dp debug

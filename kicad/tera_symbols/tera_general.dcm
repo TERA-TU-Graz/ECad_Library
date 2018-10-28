@@ -95,7 +95,7 @@ D DCDC converter designed by M. Pumberger at Tera TU Graz. Voltage output depend
 K DCDC converter Tera Stepdown
 $ENDCMP
 #
-$CMP HO_25-NP/SP33
+$CMP HO_25-NP_SP33
 D LEM HO 8/10/25-P/SP33 Current Hall sensor
 K LEM, Current, Hall
 F http://www.lem.com/docs/products/ho-np_sp33-1000_series.pdf
@@ -132,13 +132,13 @@ $ENDCMP
 #
 $CMP LMV341
 D Low Power, general purpose Op Amp, SC-70-6 package
-K op amp amplifier operational 
+K op amp amplifier operational
 F http://www.ti.com/lit/ds/symlink/lmv601.pdf
 $ENDCMP
 #
 $CMP LMV342
 D Dual, Low Power, general purpose Op Amp
-K op amp amplifier operational 
+K op amp amplifier operational
 F http://www.farnell.com/datasheets/90091.pdf
 $ENDCMP
 #

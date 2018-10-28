@@ -10,4 +10,16 @@ D Optical solid state relay
 K Solid_state_relay
 $ENDCMP
 #
+$CMP TE_OJ-SH-112DM
+D TE OJ Single pole single throw normally open relay, 12V coil voltage
+K Single Pole Relay SPST-NO
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FOJ_OJE_series_relay_data_sheet_E%7F0214%7Fpdf%7FEnglish%7FENG_DS_OJ_OJE_series_relay_data_sheet_E_0214_OJ.pdf%7F1461406-4
+$ENDCMP
+#
+$CMP TE_OJ-SH-112DM_MU
+D TE OJ Single pole single throw normally open relay, 12V coil voltage
+K Single Pole Relay SPST-NO
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FOJ_OJE_series_relay_data_sheet_E%7F0214%7Fpdf%7FEnglish%7FENG_DS_OJ_OJE_series_relay_data_sheet_E_0214_OJ.pdf%7F1461406-4
+$ENDCMP
+#
 #End Doc Library

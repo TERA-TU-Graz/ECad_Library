@@ -558,4 +558,14 @@ K DcDc_Converter TMR_1_Series
 F http://assets.tracopower.com/20160304084254/TMR1/documents/tmr1-datasheet.pdf
 $ENDCMP
 #
+$CMP TSR_0.5-2433
+D TSR 0.5 Series, 0.5 A Switching Regulator, Vout=3.3V, Vin = 4.72...32V (Replacement for small TERA converter)
+F https://assets.tracopower.com/20180322132026/TSR05/documents/tsr05-datasheet.pdf
+$ENDCMP
+#
+$CMP TSR_0.5-2450
+D TSR 0.5 Series, 0.5 A Switching Regulator, Vout=5V, Vin = 6.5...32V (Replacement for small TERA converter)
+F https://assets.tracopower.com/20180322132026/TSR05/documents/tsr05-datasheet.pdf
+$ENDCMP
+#
 #End Doc Library
